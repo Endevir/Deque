@@ -1,6 +1,15 @@
+/*
+ * Programming at MIPT
+ * 1 sem.
+ * Ivan Arkhipov
+ * 04.12.2017
+ * REPOSITORY URL: https://github.com/Gi1dor/Deque
+ * GIT URL: https://github.com/Gi1dor/Deque.git
+ */
+
+
 #include <cstdio>
 #include <iterator>
-//#include "deque_iterator.h"
 
 #include <iterator>
 #include <iostream>
